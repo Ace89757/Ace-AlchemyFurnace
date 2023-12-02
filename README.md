@@ -18,7 +18,7 @@
 
 **2D目标检测**
 
-|   Detector    | (alchemy)<br>mAP | (alchemy)<br>mF1 | (coco)<br>mAP |                 Experiments                  | Weights |                    Source Code                    |                   Paper                   |
+|   Detector    | mAP | mF1 | (coco)<br>mAP<br>.5:.95 |                 Experiments                  | Weights |                    Source Code                    |                   Paper                   |
 | :-------: | :--------------: | :--------------: | :-----------: | :------------------------------------------: | :--------: | :-----------------------------------------------: | :---------------------------------------: |
 
 
