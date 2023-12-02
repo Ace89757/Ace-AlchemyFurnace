@@ -1,4 +1,4 @@
-# :fire: Alchemy
+# :fire: Alchemy Furanace
 本工程基于[OpenMMLab](https://openmmlab.com/codebase)开发，用于个人学习、记录。
 
 [MMEngine 官方文档](https://mmengine.readthedocs.io/zh-cn/latest/)
