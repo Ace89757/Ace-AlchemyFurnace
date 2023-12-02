@@ -12,7 +12,7 @@
 ******
 &nbsp;
 &nbsp;
-## :bulb: 算法库
+## :bulb: Algorithm Library
 &nbsp;
 &emsp;
 
