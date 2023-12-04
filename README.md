@@ -69,7 +69,7 @@ mim install 'mmcv>=2.0.0rc4'
 **步骤5. 使用mim将 mmdet 作为依赖或第三方 Python 包安装**
 
 ~~~Bash
-mim install 'mmdet>=3.0.0
+mim install 'mmdet>=3.0.0'
 ~~~
 
 **步骤6. 使用mim将 mmdet3d 作为依赖或第三方 Python 包安装**
